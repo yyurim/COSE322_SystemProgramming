@@ -11,4 +11,4 @@ raw
     ext4_result.txt		// Ext4 실험결과 raw 파일 
     f2fs_result.txt		// F2FS 실험결과 raw 파일
 
-sp1_group36_윤유림_report.pdf	// 보고서
+sp2020_1_group36_report.pdf 	// 보고서
